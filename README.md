@@ -1,7 +1,7 @@
-[![](https://komarev.com/ghpvc/?username=noovo86&style=flat-square&color=green)](#)
+[![](https://komarev.com/ghpvc/?username=noovo86&style=flat-square&color=green)]
 # My Profile
-[![](https://github-readme-stats.vercel.app/api?username=noovo86&show_icons=true&theme=graywhite&line_height=40)](#)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=noovo86&theme=graywhite)](#)
+[![](https://github-readme-stats.vercel.app/api?username=noovo86&show_icons=true&theme=graywhite&line_height=40)](.)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=noovo86&theme=graywhite)]()
 
 # Skills
 
