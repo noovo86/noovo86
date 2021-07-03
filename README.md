@@ -11,7 +11,10 @@ High school student who love program(Beginner)
 - live: okayama - japan
 
 # Work(s)
-- http://noovo.php.xdomain.jp/gothello/
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=graywhite&username=noovo86&repo=gothello_web)](https://github.com/noovo86/gothello_web)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=graywhite&username=noovo86&repo=gothello)](https://github.com/noovo86/gothello)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=graywhite&username=noovo86&repo=myscripts-for-i3)](httpshttps://github.com/noovo86/myscripts-for-i3)
+[![](https://github-readme-stats.vercel.app/api/pin/?theme=graywhite&username=noovo86&repo=keijiban)](https://github.com/noovo86/keijiban)
 
 # Skills
 [![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)](#)
